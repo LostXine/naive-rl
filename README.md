@@ -4,7 +4,6 @@ Naive implementations of CSE525 HWs
 ## Environment
 
 ### Install
-
 Please check [Environment.ipynb](/Environment.ipynb)
 
 ### Test env
@@ -13,9 +12,32 @@ Please check [Environment.ipynb](/Environment.ipynb)
 * torch 1.4.0
 * numpy 1.18.3
 
-## HW1
+## HW1 (working)
+### Algorithm
+* Baseline: Vanilla Online Q Learning (without target network and replay buffer)
+* Fitted Q Iteration
+* DQN
+* DQN-like-version of "SARSA"
 
-## HW2
+### Test env
+* InvertedPendulumMuJoCoEnv-v0
+* HalfCheetahMuJoCoEnv-v0
+* Breakout-v4
 
-## HW3
+## HW2 (working)
+### Algorithm
+* REINFORCE
+* Advantage Actor Critic (A2C)
+
+### Test env
+* InvertedPendulumMuJoCoEnv-v0
+* HalfCheetahMuJoCoEnv-v0
+
+## HW3 (working)
+### Algorithm
+* Offline dynamics model learning
+* Online dynamics model learning
+
+### Test env
+* Breakout-v4
 
