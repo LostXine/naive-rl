@@ -9,7 +9,7 @@ Please check [Environment.ipynb](/Environment.ipynb)
 ### Test env
 * Ubuntu 18.04
 * Python 3.6.9
-* torch 1.4.0
+* torch 1.5.0
 * numpy 1.18.3
 
 ## HW1 (working)
@@ -22,7 +22,7 @@ Please check [Environment.ipynb](/Environment.ipynb)
 ### Test env
 * InvertedPendulumMuJoCoEnv-v0
 * HalfCheetahMuJoCoEnv-v0
-* Breakout-v4
+* Breakout-v4-ram
 
 ## HW2 (working)
 ### Algorithm
