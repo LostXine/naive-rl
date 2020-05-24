@@ -1,2 +1,5 @@
 \.*/
 *.pyc
+model/*.pth
+*-Copy*.ipynb
+
