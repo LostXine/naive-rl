@@ -12,7 +12,7 @@ Please check [Environment.ipynb](/Environment.ipynb)
 * torch 1.5.0
 * numpy 1.18.3
 
-## HW1 (working)
+## HW1 [Done]
 ### Algorithm
 * Baseline: Vanilla Online Q Learning (without target network and replay buffer)
 * Fitted Q Iteration
