@@ -14,10 +14,10 @@ Please check [Environment.ipynb](/Environment.ipynb)
 
 ## HW1 [Done]
 ### Algorithm
-* Baseline: Vanilla Online Q Learning (without target network and replay buffer)
-* Fitted Q Iteration
-* DQN
-* DQN-like-version of "SARSA"
+* Baseline: [Vanilla Online Q Learning](/VanillaQ.ipynb) (without target network and replay buffer)
+* [Fitted Q Iteration](/Fitted-Q-iteration.ipynb)
+* [DQN](/DQN-Ram.ipynb)
+* [DQN-like-version of "SARSA"](/DQN-Sarsa.ipynb)
 
 ### Test env
 * InvertedPendulumMuJoCoEnv-v0
@@ -40,4 +40,5 @@ Please check [Environment.ipynb](/Environment.ipynb)
 
 ### Test env
 * Breakout-v4
+
 
